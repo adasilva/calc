@@ -29,9 +29,7 @@ Setup
 -----
 Please do the following steps to install the dependencies and make sure you are ready to go:
 
-1. Clone the repository
-
-git clone https://github.com/pycabook/pycabook.git
+1. Clone this repository
 
 2. Install requirements
 
