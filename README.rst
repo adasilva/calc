@@ -57,11 +57,11 @@ git checkout tags/<tag-name> -b <branch-name>
 
 The following are the tags used for the exercises & solutions:
 
-step-1-adding-two-numbers
-step-5-multiply-two-numbers
-step-6-refactoring
-step-8-multiply-by-zero
-meteoritestats-class-added
+- step-1-adding-two-numbers
+- step-5-multiply-two-numbers
+- step-6-refactoring
+- step-8-multiply-by-zero
+- meteoritestats-class-added
 
 In case we have time for it, the bonus mocking exercise is from a different repository:
 
@@ -69,8 +69,8 @@ git clone https://github.com/pycabook/fileinfo.git
 
 Tags for the bonus exercise & solution:
 
-patch-with-context-manager
-patch-with-function-decorator
+- patch-with-context-manager
+- patch-with-function-decorator
 
 
 Credits
